@@ -289,7 +289,12 @@ display: block;
 @media(max-width : 768px){
 .flex-wrap{
   width  : 100%;
+  
 }
+.portfolio-wrap{
+  margin-top : 30px;  
+}
+
 }
 
 /* 全体設定 */
